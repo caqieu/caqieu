@@ -1,4 +1,4 @@
-## Caique Sallas, 21y - Backend Developer 💻
+## Caique Sallas, 23y - Backend Developer 💻
 
 ### About
 - 🔭 Currently I work as Backend Developer at <a target="_blank" href="http://burh.com.br">Burh</a>
