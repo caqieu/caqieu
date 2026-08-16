@@ -1,12 +1,13 @@
 # Caique Sallas | Backend Engineer
 
-## PHP & Laravel Performance Specialist
-
 [![Location](https://img.shields.io/badge/Brazil-UTC--3-green?style=flat-square&logo=mapchart&logoColor=white)](https://time.is/UTC-3)
-[![Open to Work](https://img.shields.io/badge/Open_to_Remote-USD_Paid_Roles-0077B5?style=flat-square&logo=mail-dot-ru&logoColor=white)](mailto:caique.emprego2002@gmail.com)
 [![English Level](https://img.shields.io/badge/English-Advanced_(C1)-blue?style=flat-square&logo=google-translate&logoColor=white)](https://www.linkedin.com/in/caique-sallas)
 
-Experienced **Backend Engineer** specializing in scaling **SaaS platforms** and designing high-performance **RESTful APIs**. I focus on measurable business value, stability, and reliability. **4+ years** of experience in remote, multilingual teams, communicating daily in English.
+Backend Engineer with 5+ years of experience building and scaling high-performance APIs and SaaS platforms using
+PHP (Laravel 8-12). Strong focus on performance optimization, reliability, and clean architecture, with hands-on
+experience in database tuning, caching strategies, multi-tenant systems, CI/CD, and production monitoring. Proven track
+record reducing latency, stabilizing critical systems, and delivering scalable solutions in collaboration with product and
+engineering leadership.
 
 ---
 
@@ -25,7 +26,7 @@ I design solutions robustly, securely, and maintainably, thinking from the **dat
 
 ---
 
-### 🎯 Actively Seeking Remote Roles
+### Actively Seeking Remote Roles
 
 * Backend Developer / Software Engineer
 * PHP/Laravel Developer
